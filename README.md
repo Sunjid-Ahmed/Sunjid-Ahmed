@@ -35,3 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunjid-ahmed&show_icons=true&locale=en" alt="sunjid-ahmed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunjid-ahmed&" alt="sunjid-ahmed" /></p>
+
+
+![snake gif](https://github.com/Sunjid-Ahmed/Sunjid-Ahmed/blob/output/github-snake-dark.svg)
+
