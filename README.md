@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C,C++,Java**
+- 🌱 I’m currently learning **C,C++,Java,Python,Cyber-Security**
 
-- 📫 How to reach me **siyem2305101728@diu.edu.bd**
+- 📫 How to reach me **sunjidahmed1992@gmail.com**
 
 - ⚡ Fun fact **I think I am suspicious.**
 
