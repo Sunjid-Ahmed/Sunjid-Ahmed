@@ -39,3 +39,7 @@
 
 ![snake gif](https://github.com/Sunjid-Ahmed/Sunjid-Ahmed/blob/output/github-snake-dark.svg)
 
+
+
+![Sunjid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunjid-Ahmed&show_icons=true&theme=radical)
+
