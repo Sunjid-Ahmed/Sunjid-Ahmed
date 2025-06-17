@@ -43,3 +43,5 @@
 
 ![Sunjid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunjid-Ahmed&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunjid-Ahmed&layout=compact&theme=radical)
+
