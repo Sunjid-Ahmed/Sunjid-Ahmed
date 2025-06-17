@@ -32,16 +32,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunjid-ahmed&show_icons=true&theme=radical&locale=en&layout=compact" alt="sunjid-ahmed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunjid-ahmed&show_icons=true&locale=en" alt="sunjid-ahmed" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunjid-ahmed&show_icons=true&theme=radical&locale=en" alt="sunjid-ahmed" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunjid-ahmed&" alt="sunjid-ahmed" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunjid-ahmed&theme=radical" alt="sunjid-ahmed" /></p>
 
 
 ![snake gif](https://github.com/Sunjid-Ahmed/Sunjid-Ahmed/blob/output/github-snake-dark.svg)
 
 
-
-![Sunjid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunjid-Ahmed&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunjid-Ahmed&layout=compact&theme=radical)
 
