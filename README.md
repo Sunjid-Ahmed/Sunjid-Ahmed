@@ -2,7 +2,13 @@
 <h1 align="center">Hi 👋, I'm Sunjid Ahmed</h1>
 <h3 align="center">I am passionate in Hacking.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rushbruh/count.svg?"  />
+</div>
+
+###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunjid-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="sunjid-ahmed" /> </p>
 
