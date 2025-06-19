@@ -34,9 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunjid-ahmed&show_icons=true&theme=radical&locale=en" alt="sunjid-ahmed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunjid-ahmed&theme=radical" alt="sunjid-ahmed" /></p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sunjid-ahmed&theme=radical" alt="GitHub Streak" />
-</p>
+
 
 ![snake gif](https://github.com/Sunjid-Ahmed/Sunjid-Ahmed/blob/output/github-snake-dark.svg)
 
