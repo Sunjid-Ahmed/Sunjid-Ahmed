@@ -36,12 +36,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunjid-ahmed&theme=radical" alt="sunjid-ahmed" /></p>
 
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sunjid-ahmed&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="sunjid-ahmed GitHub Streak Stats"/>
-</p>
-
 
 
 ![snake gif](https://github.com/Sunjid-Ahmed/Sunjid-Ahmed/blob/output/github-snake-dark.svg)
