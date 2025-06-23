@@ -37,7 +37,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunjid-ahmed&theme=radical" alt="sunjid-ahmed" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imerfanahmed&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sunjid-ahmed&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
