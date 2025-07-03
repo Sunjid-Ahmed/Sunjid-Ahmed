@@ -39,10 +39,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sunjid-ahmed&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-## ♨️ &nbsp;Cyber Security Analytics
-
-<p align="center"> <img src="https://leetcard.jacoblin.cool/sunjid-ahmed?theme=dark&font=Noto%20Sans&ext=contest" 
-         alt="Leetcode stats" height="350"/></p>
 <p aligin="center" > <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;"> </p> 
 
 
