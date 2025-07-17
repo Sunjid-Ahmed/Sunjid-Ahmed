@@ -49,11 +49,16 @@ $ cat /etc/passwd | grep contact
   </a>
 </div>
 
+<!-- Animated Security Timeline -->
+<div align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line">
+</div>
+
+
 - 🌱 I’m currently learning **C,Java,Python,Cyber-Security**
 
 - 📫 How to reach me **sunjidahmed1992@gmail.com**
 
-- ⚡ Fun fact **I think I am suspicious.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
