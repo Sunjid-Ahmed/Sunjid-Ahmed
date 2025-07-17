@@ -138,6 +138,11 @@
   <table>
     <tr>
       <td align="center">
+  <img src="https://i.imgur.com/SPP6Wxp.png" width="65" height="65" alt="Your Image" />
+  <br /><strong>Your Label</strong>
+</td>
+
+      <td align="center">
         <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="65" height="65" alt="Kali Linux" />
         <br /><strong>Kali Linux</strong>
       </td>
