@@ -388,7 +388,7 @@ $ cat /etc/passwd | grep contact
 <!-- Comprehensive Security Portfolio with Enhanced Visuals -->
 <div align="center">
   <a href="https://github.com/Sunjid-Ahmed">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunjid-Ahmed&theme=github_dark" width="100%" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunjid-Ahmed&theme=radical" width="100%" />
   </a>
 </div>
 
