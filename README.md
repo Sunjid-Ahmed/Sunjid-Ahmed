@@ -236,12 +236,6 @@
 
 
 
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunjid-ahmed&show_icons=true&theme=radical&locale=en&layout=compact" alt="sunjid-ahmed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunjid-ahmed&show_icons=true&theme=radical&locale=en" alt="sunjid-ahmed" /></p>
@@ -250,6 +244,11 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sunjid-ahmed&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <p aligin="center" > <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;"> </p> 
 
