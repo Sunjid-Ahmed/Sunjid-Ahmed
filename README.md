@@ -62,6 +62,15 @@ $ cat /etc/passwd | grep contact
 <a href="mailto:sunjidahmed1992@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
+<a href="https://wa.me/+8801628572004" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+</a>
+<a href="https://t.me/Sunjid_ahmed" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</a>
+<a href="https://m.me/@sunjid.ahmed.6969" target="_blank">
+  <img src="https://img.shields.io/badge/Messenger-0078FF?style=flat&logo=messenger&logoColor=white" alt="Messenger Badge"/>
+</a>
 
 
 
