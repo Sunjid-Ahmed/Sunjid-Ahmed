@@ -173,9 +173,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sunjid-Ahmed&repo=Hacking-Tools&theme=radical" />
   </a>
   
-  <a href="https://github.com/Sunjid-Ahmed/Learn_python_with_me">
+  <p href="https://github.com/Sunjid-Ahmed/Learn_python_with_me">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sunjid-Ahmed&repo=Learn_python_with_me&theme=radical" />
-  </a>
+  </p>
 </div>
 
 
