@@ -186,10 +186,21 @@
      <br /><strong>AWS</strong>
     </td>
         <td align="center">
-        <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="65" height="65" alt="Kali Linux" />
-        <br /><strong>Kali Linux</strong>
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
+        <br /><strong>Docker</strong>
       </td>
-     
+     <td align="center">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="RestAPI" />
+        <br /><strong>RestAPI</strong>
+      </td>
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" width="65" height="65" alt="swift" />
+        <br /><strong>swift</strong>
+      </td>
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="react" />
+        <br /><strong>react</strong>
+      </td>
    </tr>
   </table>
 </div>
