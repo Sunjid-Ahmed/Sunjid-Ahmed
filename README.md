@@ -215,16 +215,16 @@
         <br /><strong>swift</strong>
       </td>
       <td align="center">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="react" />
-        <br /><strong>react</strong>
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="reactjs" />
+        <br /><strong>react js</strong>
       </td>
       <td align="center">
         <img src="https://i.imgur.com/geRWWPD.gif" width="65" height="65" alt="nodejs" />
         <br /><strong>Node js</strong>
       </td>
       <td align="center">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="react" />
-        <br /><strong>react</strong>
+        <img src="https://i.imgur.com/h9T1HTk.gif" width="65" height="65" alt="Firebase" />
+        <br /><strong>Firebase</strong>
       </td>
    </tr>
   </table>
