@@ -117,7 +117,7 @@
   <!-- Row 2 - Frameworks & Databases -->
   <tr>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" width="70" height="70" alt="Django"/>
+      <img src="https://techstack-generator.vercel.app/Django_logo.svg" width="70" height="70" alt="Django"/>
       <br>Django
     </td>
     <td align="center">
@@ -172,6 +172,24 @@
         <img src="https://i.imgur.com/yftPY99.png" width="65" height="65" alt="Android" />
         <br /><strong>Android</strong>
       </td>
+   </tr>
+  </table>
+</div>
+
+<!-- FrameWorks -->
+<div align="center">
+  <h3>🖥️ Frameworks</h3>
+  <table>
+    <tr>
+      <td align="center">
+       <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" />
+     <br /><strong>AWS</strong>
+    </td>
+        <td align="center">
+        <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="65" height="65" alt="Kali Linux" />
+        <br /><strong>Kali Linux</strong>
+      </td>
+     
    </tr>
   </table>
 </div>
