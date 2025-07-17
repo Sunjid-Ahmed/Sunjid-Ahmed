@@ -28,6 +28,11 @@
 <a href="https://auth.geeksforgeeks.org/user/siyem230hbwr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="siyem230hbwr" height="30" width="40" /></a>
 </p>
 
+<!-- Animated Security Timeline -->
+<div align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line">
+</div>
+
 <h3 align="left">Languages and Tools:</h3>
 <!-- Programming & Security Languages with Animated Icons -->
 <div align="center">
