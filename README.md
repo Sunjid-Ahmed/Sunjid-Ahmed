@@ -2,7 +2,7 @@
 
 ## Hi HACKERS 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="24px">
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%23B335F7&size=22&vCenter=true&height=40&lines=My+Name+is+Sunjid%F0%9F%98%80;+Welcome+to+my+home+page+%F0%9F%91%8B;I+guess+you+are+a+hacker+%F0%9F%A4%94;Nice+to+meet+you+%F0%9F%98%9D%F0%9F%A4%9D;Hope+there+is+something+you+need+%F0%9F%A7%90;like+Hacking+tools+Resources%F0%9F%93%93">
+<img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%23B335F7&size=22&vCenter=true&height=40&lines=Hello+World%2C+I'm+Sunjid+Ahmed;Cybersecurity+Specialist;Ethical+Hacker+%7C+C%2FC%2B%2B+Engineer;Malware+Analyst+%7C+Full+Stack+Developer;CTF+Player+%7C+Red+Teamer+Student;Zero-Day+Vulnerability+Researcher">
 </h1>  
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
