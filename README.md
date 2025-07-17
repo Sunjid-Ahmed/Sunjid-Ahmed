@@ -223,7 +223,7 @@
         <br /><strong>Node js</strong>
       </td>
       <td align="center">
-        <img src="https://i.imgur.com/qy2ZJx9.png" width="65" height="65" alt="Firebase" />
+        <img src="https://i.imgur.com/VmC9QkP.png" width="65" height="65" alt="Firebase" />
         <br /><strong>Firebase</strong>
       </td>
    </tr>
