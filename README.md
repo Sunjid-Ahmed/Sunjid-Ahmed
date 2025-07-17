@@ -136,6 +136,10 @@
       <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="70" height="70" alt="SQL Server"/>
       <br>SQL Server
     </td>
+      <td align="center">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="70" height="70" alt="Graphql"/>
+      <br>Graphql
+    </td>
     <td align="center">
       <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70" height="70" alt="Git"/>
       <br>Git
