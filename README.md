@@ -80,7 +80,10 @@
         <img src="https://i.imgur.com/FQw1Ond.png" width="65" height="65" alt="Android Studio"/>
         <br>Android Studio
       </td>
-      <td colspan="1"></td>
+      <td align="center">
+        <img src="https://i.imgur.com/rgDxSIl.png" width="65" height="65" alt="Figma"/>
+        <br>Figma
+      </td>
     </tr>
   </table>
 
