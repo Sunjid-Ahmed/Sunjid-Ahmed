@@ -12,7 +12,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunjid-ahmed" alt="sunjid-ahmed" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=2D8F3A&center=true&vCenter=true&width=600&lines=sudo+nmap+-sS+-sV+-A+--script+vuln+target.com;binwalk+-e+--dd+'.*'+suspicious.bin;volatility+-f+memory.dmp+pstree;sudo+responder+-I+eth0+-wrf;hashcat+-m+1000+hashes.txt+rockyou.txt;wireshark+-i+eth0+-f+'port+443';strace+-p+$(pidof+malware);ltrace+-p+$(pidof+suspicious);./0xExploit+--target=192.168.1.1+--payload=reverse_shell" alt="Security Terminal Commands" />
 </div>
