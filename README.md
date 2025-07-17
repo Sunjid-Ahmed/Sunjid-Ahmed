@@ -75,6 +75,10 @@ $ cat /etc/passwd | grep contact
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://tryhackme.com/p/r00td3f4ult" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/r00td3f4ult.png" alt="TryHackMe Profile" height="20" />
+</a>
+
 <a href="https://codepen.io/sunjid-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sunjid-ahmed" height="30" width="40" /></a>
 <a href="https://dev.to/sunjidahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sunjidahmed" height="30" width="40" /></a>
 <a href="https://twitter.com/r00td3f4ult" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r00td3f4ult" height="30" width="40" /></a>
@@ -83,7 +87,7 @@ $ cat /etc/passwd | grep contact
 <a href="https://kaggle.com/sunjidahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sunjidahmed" height="30" width="40" /></a>
 <a href="https://instagram.com/sm_sunjid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sm_sunjid" height="30" width="40" /></a>
 <a href="https://hashnode.com/sunjid-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="sunjid-ahmed" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@sunjid-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@sunjid-ahmed" height="30" width="40" /></a>
+<a href="https://medium.com/@sunjid-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@sunjid-ahmed" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sunjid_ahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sunjid_ahmed" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sunjid_ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sunjid_ahmed" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sunjid_ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sunjid_ahmed" height="30" width="40" /></a>
