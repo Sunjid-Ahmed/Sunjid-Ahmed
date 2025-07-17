@@ -255,8 +255,6 @@
 ## 📊 Security Analytics Dashboard
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunjid-ahmed&show_icons=true&theme=radical&locale=en&layout=compact" alt="sunjid-ahmed" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunjid-ahmed&show_icons=true&theme=radical&locale=en" alt="sunjid-ahmed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunjid-ahmed&theme=radical" alt="sunjid-ahmed" /></p>
@@ -281,10 +279,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sunjid-Ahmed&theme=radical" alt="Development Metrics" />
 </div>
 
-<!-- Contribution Analysis with Enhanced Visual -->
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Amr-Khaled-Ahmed&limit=5&theme=dark&title_color=0D5F1A&text_color=ffffff&bg_color=0d1117&combine_all_yearly_contributions=true" alt="Top Project Contributions" />
-</div>
 
 <!-- Animated Divider -->
 <div align="center">
