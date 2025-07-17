@@ -57,7 +57,12 @@ $ cat /etc/passwd | grep contact
 
 - 🌱 I’m currently learning **C,Java,Python,Cyber-Security**
 
-- ## 📫 How to reach me -[📧 sunjidahmed1992@gmail.com](mailto:sunjidahmed1992@gmail.com)
+## 📫 How to reach me
+
+<a href="mailto:sunjidahmed1992@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+
 
 
 
