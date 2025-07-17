@@ -270,13 +270,12 @@
 <!-- GitHub Status Dashboard with Enhanced Visuals -->
 <h3>🔥 Security Development Analytics</h3>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sunjid-Ahmed&theme=github_dark&utcOffset=8" alt="Activity Timeline" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunjid-Ahmed&theme=github_dark" alt="Security Arsenal by Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sunjid-Ahmed&theme=radical&utcOffset=8" alt="Activity Timeline" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunjid-Ahmed&theme=radical" alt="Security Arsenal by Language" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sunjid-Ahmed&theme=radical" alt="Core Development Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sunjid-Ahmed&theme=radical" alt="Development Metrics" />
 </div>
 
 
@@ -307,6 +306,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 </div>
+<br>
 
 <p aligin="center" > <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;"> </p> 
 
