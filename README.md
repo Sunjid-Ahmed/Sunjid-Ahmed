@@ -157,7 +157,11 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux" />
         <br /><strong>Linux</strong>
       </td>
-    </tr>
+      <td align="center">
+        <img src="https://i.imgur.com/VkFm4xO.png" width="65" height="65" alt="Linux" />
+        <br /><strong>Tor Browser</strong>
+      </td>
+   </tr>
   </table>
 </div>
 <!-- Animated Divider -->
