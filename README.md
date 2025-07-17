@@ -254,13 +254,21 @@
 
 ## 📊 Security Analytics Dashboard
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunjid-ahmed&show_icons=true&theme=radical&locale=en" alt="sunjid-ahmed" /></p>
-<td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunjid-Ahmed&layout=compact&theme=dark&title_color=0D5F1A&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Language Arsenal" />
+<div align="center">
+  <table border="0" align="center">
+    <tr border="0">
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=sunjid-ahmed&show_icons=true&theme=radical&locale=en" alt="sunjid-ahmed" />
       </td>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunjid-ahmed&theme=radical" alt="sunjid-ahmed" /></p>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunjid-Ahmed&layout=compact&theme=radical&locale=en" alt="Language Arsenal" />
+      </td>
+    <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunjid-ahmed&theme=radical" alt="sunjid-ahmed" />
+      </td>
+    </tr>
+  </table>
+</div>  
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sunjid-ahmed&limit=5&theme=radical&combine_all_yearly_contributions=true)
