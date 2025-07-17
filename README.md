@@ -74,10 +74,15 @@ $ cat /etc/passwd | grep contact
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://tryhackme.com/p/r00td3f4ult" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/r00td3f4ult.png" alt="TryHackMe Profile" height="20" />
+
+<a href="https://tryhackme.com/p/r00td3f4ult" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/r00td3f4ult.png" alt="TryHackMe Profile" height="30" />
 </a>
+
+<a href="https://tryhackme.com/p/r00td3f4ult" target="_blank">
+  <img src="https://assets.tryhackme.com/img/THMlogo.png" alt="TryHackMe Logo" height="30">
+</a>
+
 
 <a href="https://codepen.io/sunjid-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sunjid-ahmed" height="30" width="40" /></a>
 <a href="https://dev.to/sunjidahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sunjidahmed" height="30" width="40" /></a>
