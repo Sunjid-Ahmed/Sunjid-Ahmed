@@ -169,7 +169,7 @@
 <h3>🚀 Featured Security Projects</h3>
 
 <div align="center">
-  <a href="https://github.com/Sunjid-Ahmed/Hacking-Tools" style="margin-right: 15px;>
+  <a href="https://github.com/Sunjid-Ahmed/Hacking-Tools" style="margin-right: 15 px;>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sunjid-Ahmed&repo=Hacking-Tools&theme=radical" />
   </a>
   
