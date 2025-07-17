@@ -256,19 +256,22 @@
 
 <div align="center">
   <table border="0" align="center">
-    <tr border="0">
+    <tr>
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=sunjid-ahmed&show_icons=true&theme=radical&locale=en" alt="sunjid-ahmed" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunjid-Ahmed&layout=compact&theme=radical&locale=en" alt="Language Arsenal" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunjid-ahmed&layout=compact&theme=radical&locale=en" alt="Language Arsenal" />
       </td>
-    <td width="50%" align="center">
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunjid-ahmed&theme=radical" alt="sunjid-ahmed" />
       </td>
     </tr>
   </table>
-</div>  
+</div>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sunjid-ahmed&limit=5&theme=radical&combine_all_yearly_contributions=true)
