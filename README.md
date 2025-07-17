@@ -234,6 +234,7 @@
   </a>
 </div>
 
+## 📊 Security Analytics Dashboard
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunjid-ahmed&show_icons=true&theme=radical&locale=en&layout=compact" alt="sunjid-ahmed" /></p>
