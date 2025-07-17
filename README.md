@@ -117,7 +117,7 @@
   <!-- Row 2 - Frameworks & Databases -->
   <tr>
     <td align="center">
-      <img src="https://techstack-generator.vercel.app/django_logo.svg" width="70" height="70" alt="Django"/>
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="70" height="70" alt="Django"/>
       <br>Django
     </td>
     <td align="center">
