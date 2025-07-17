@@ -34,6 +34,21 @@ $ cat /etc/passwd | grep contact
 ```
 
 </div>
+<!-- Security Badge Section with Hover Effects -->
+<div align="center">
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Security-Ethical%20Hacking-0D5F1A?style=for-the-badge&logo=hackerone&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Expert-C%2FC%2B%2B-0D5F1A?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Specialist-Malware%20Analysis-0D5F1A?style=for-the-badge&logo=virustotal&logoColor=white" />
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Developer-Full%20Stack-0D5F1A?style=for-the-badge&logo=javascript&logoColor=white" />
+  </a>
+</div>
 
 - 🌱 I’m currently learning **C,Java,Python,Cyber-Security**
 
