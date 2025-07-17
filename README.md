@@ -172,6 +172,10 @@
         <img src="https://i.imgur.com/yftPY99.png" width="65" height="65" alt="Android" />
         <br /><strong>Android</strong>
       </td>
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg"  width="65" height="65" alt="raspberrypi" />
+        <br /><strong>raspberrypi</strong>
+      </td>
    </tr>
   </table>
 </div>
