@@ -71,9 +71,8 @@ $ cat /etc/passwd | grep contact
 <a href="https://m.me/@sunjid.ahmed.6969" target="_blank">
   <img src="https://img.shields.io/badge/Messenger-0078FF?style=flat&logo=messenger&logoColor=white" alt="Messenger Badge"/>
 </a>
-<a href="http://sunjid.site/" target="_blank">
-  <img src="https://img.shields.io/badge/Website?style=for-the-badge&logo=google-chrome" alt="Website Badge" />
-</a>
+
+[![Website](https://img.icons8.com/ios-filled/24/000000/internet--v1.png)](http://sunjid.site/)
 
 
 
