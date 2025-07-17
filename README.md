@@ -112,6 +112,10 @@
       <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="70" height="70" alt="Bootstrap"/>
       <br>Bootstrap
     </td>
+     <td align="center">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="70" height="70" alt="Github"/>
+      <br>Github
+    </td>
   </tr>
   
   <!-- Row 2 - Frameworks & Databases -->
