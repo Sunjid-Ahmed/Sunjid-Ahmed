@@ -72,7 +72,7 @@ $ cat /etc/passwd | grep contact
   <img src="https://img.shields.io/badge/Messenger-0078FF?style=flat&logo=messenger&logoColor=white" alt="Messenger Badge"/>
 </a>
 <a href="http://sunjid.site/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-sunjid.site-blue?style=for-the-badge&logo=google-chrome" alt="Website Badge" />
+  <img src="https://img.shields.io/badge/Website?style=for-the-badge&logo=google-chrome" alt="Website Badge" />
 </a>
 
 
