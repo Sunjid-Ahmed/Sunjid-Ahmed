@@ -110,7 +110,7 @@
   <!-- Row 2 - Frameworks & Databases -->
   <tr>
     <td align="center">
-      <img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" width="70" height="70" alt="Django"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" width="70" height="70" alt="Django"/>
       <br>Django
     </td>
     <td align="center">
