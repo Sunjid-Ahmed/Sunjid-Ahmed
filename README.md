@@ -168,6 +168,11 @@
   </a>
 </div>
 
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunjid-ahmed&show_icons=true&theme=radical&locale=en&layout=compact" alt="sunjid-ahmed" /></p>
 
