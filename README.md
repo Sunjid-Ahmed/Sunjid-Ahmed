@@ -218,6 +218,14 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="react" />
         <br /><strong>react</strong>
       </td>
+      <td align="center">
+        <img src="https://i.imgur.com/geRWWPD.gif" width="65" height="65" alt="nodejs" />
+        <br /><strong>Node js</strong>
+      </td>
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="react" />
+        <br /><strong>react</strong>
+      </td>
    </tr>
   </table>
 </div>
@@ -259,6 +267,46 @@
 <!-- Animated Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<!-- GitHub Status Dashboard with Enhanced Visuals -->
+<h3>🔥 Security Development Analytics</h3>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sunjid-Ahmed&theme=github_dark&utcOffset=8" alt="Activity Timeline" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunjid-Ahmed&theme=github_dark" alt="Security Arsenal by Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sunjid-Ahmed&theme=radical" alt="Core Development Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sunjid-Ahmed&theme=radical" alt="Development Metrics" />
+</div>
+
+<!-- Contribution Analysis with Enhanced Visual -->
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Amr-Khaled-Ahmed&limit=5&theme=dark&title_color=0D5F1A&text_color=ffffff&bg_color=0d1117&combine_all_yearly_contributions=true" alt="Top Project Contributions" />
+</div>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+
+<!-- Security Philosophy with Animated Background -->
+<h3>💭 Security Philosophy</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100" height="100">
+  <blockquote>
+    "Security is not a product, but a process and a mindset. It's about understanding the adversary and building systems that remain resilient even when components fail."
+  </blockquote>
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100" height="100">
+</div>
+
+<!-- Comprehensive Security Portfolio with Enhanced Visuals -->
+<div align="center">
+  <a href="https://github.com/Sunjid-Ahmed">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunjid-Ahmed&theme=github_dark" width="100%" />
+  </a>
 </div>
 
 <p aligin="center" > <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;"> </p> 
