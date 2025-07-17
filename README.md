@@ -76,7 +76,11 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="65" height="65" alt="QT"/>
         <br>QT
       </td>
-      <td colspan="2"></td>
+      <td align="center">
+        <img src="https://i.imgur.com/FQw1Ond.png" width="65" height="65" alt="Android Studio"/>
+        <br>Android Studio
+      </td>
+      <td colspan="1"></td>
     </tr>
   </table>
 
@@ -158,8 +162,12 @@
         <br /><strong>Linux</strong>
       </td>
       <td align="center">
-        <img src="https://i.imgur.com/VkFm4xO.png" width="65" height="65" alt="Linux" />
+        <img src="https://i.imgur.com/VkFm4xO.png" width="65" height="65" alt="Tor Browser" />
         <br /><strong>Tor Browser</strong>
+      </td>
+      <td align="center">
+        <img src="https://i.imgur.com/yftPY99.png" width="65" height="65" alt="Android" />
+        <br /><strong>Android</strong>
       </td>
    </tr>
   </table>
