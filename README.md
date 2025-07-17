@@ -83,6 +83,7 @@ $ cat /etc/passwd | grep contact
 <a href="https://codeforces.com/profile/sunjid_ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sunjid_ahmed" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/siyem230hbwr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="siyem230hbwr" height="30" width="40" /></a>
 </p>
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/SunjidAhmed)
 
 <!-- Animated Security Timeline -->
 <div align="center">
@@ -383,6 +384,4 @@ $ cat /etc/passwd | grep contact
 
 ![snake gif](https://github.com/Sunjid-Ahmed/Sunjid-Ahmed/blob/output/github-snake-dark.svg)
 
-<br>
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/SunjidAhmed)
 
