@@ -376,8 +376,10 @@ $ cat /etc/passwd | grep contact
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 </div>
+<br>
  
-[![Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ff813f?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://coff.ee/SunjidAhmed)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/SunjidAhmed)
+
 
 
 <br>
