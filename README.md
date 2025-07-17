@@ -125,7 +125,7 @@
       <br>Tailwind
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="70" height="70" alt="MySQL"/>
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="70" height="70" alt="MySQL"/>
       <br>MySQL
     </td>
     <td align="center">
